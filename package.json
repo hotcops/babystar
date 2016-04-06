@@ -1,0 +1,31 @@
+{
+  "name": "babystar",
+  "version": "1.0.0",
+  "description": "Babystar, LLC",
+  "main": "src/launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotcops/babystar.git"
+  },
+  "keywords": [
+    "babystar",
+    "cosmetic",
+    "natural",
+    "organic"
+  ],
+  "author": "Shane Pizzutello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotcops/babystar/issues"
+  },
+  "homepage": "https://github.com/hotcops/babystar#readme",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3"
+  }
+}
